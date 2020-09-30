@@ -28,6 +28,7 @@ demo_app.py --refresh
 
 demo_app.py --test
 
+#optional --config command to specify location of config file containing the client ID, client secret and the urls which will be used
 demo_app.py --login --config /path/to/config/file
 
 ```
