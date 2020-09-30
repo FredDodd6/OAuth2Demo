@@ -1,0 +1,8 @@
+[NHS_urls]
+authorization_url = https://sandbox.api.service.nhs.uk/oauth2/authorize?
+token_server = https://sandbox.api.service.nhs.uk/oauth2/token
+[API_url]
+api_url = https://sandbox.api.service.nhs.uk/hello-world/hello/world?
+[CLIENT]
+client_id = CLIENT_ID
+client_secret = CLIENT_SECRET
